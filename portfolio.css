@@ -1,0 +1,33 @@
+body{
+    border: 4px double palevioletred;
+    max-width: 500px;
+    height: 40%;
+    background-color: rgb(206, 176, 181);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 80px;
+    padding: 30px;
+}
+.heading{
+    text-align: center;
+    color: rgba(87, 4, 4, 0.785);
+}
+.image{
+    border: 4px double rgb(255, 255, 255);
+    width: 155px;
+    height: 155px;
+    margin: auto;
+    text-align: center;
+    border-radius: 5px;
+    padding: 5px;
+    background-color: rgb(95, 11, 49);
+}
+.desc{
+    text-align: justify;
+    color: rgb(88, 9, 9);
+}
+.skill{
+    text-align: center;
+    color: rgba(89, 9, 9, 0.902);
+}
